@@ -19,5 +19,22 @@ https://kubernetes.io
 Kubernetes (часто сокращенно K8s) — это система с открытым исходным кодом для автоматизации
 развертывания, масштабирования и управления контейнерными приложениями.
 
+https://spring.io/projects/spring-restdocs
+Spring предоставляет проект Spring REST Docs.
+
+https://springdoc.org
+Проект Springdoc-openapi, управляемый сообществом, помогает автоматизировать создание документации AP I в соответствии с форматом OpenAPI 3.
+
+https://spring.io/projects/spring-hateoas
+Spring HATEOAS
+
+https://github.com/anchore/grype
+Сканер уязвимостей, который мы будем использовать в проекте
+
+https://github.com/features/actions
+GitHub Actions
+
+
+
 
 
